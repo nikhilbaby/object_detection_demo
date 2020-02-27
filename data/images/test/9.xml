@@ -1,7 +1,7 @@
 <annotation>
-	<folder>train</folder>
-	<filename>10.jpg</filename>
-	<path>/home/qbuser/Documents/projects/object_detection_demo/data/images/train/10.jpg</path>
+	<folder>test</folder>
+	<filename>9.jpg</filename>
+	<path>/home/qbuser/Documents/projects/object_detection_demo/data/images/test/9.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>ins_two</name>
+		<name>ins_one</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>391</xmin>
-			<ymin>234</ymin>
-			<xmax>784</xmax>
-			<ymax>431</ymax>
+			<xmin>215</xmin>
+			<ymin>268</ymin>
+			<xmax>613</xmax>
+			<ymax>462</ymax>
 		</bndbox>
 	</object>
 </annotation>

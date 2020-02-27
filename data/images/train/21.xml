@@ -1,7 +1,7 @@
 <annotation>
-	<folder>test</folder>
-	<filename>13.jpg</filename>
-	<path>/home/qbuser/Documents/projects/object_detection_demo/data/images/test/13.jpg</path>
+	<folder>train</folder>
+	<filename>21.jpg</filename>
+	<path>/home/qbuser/Documents/projects/object_detection_demo/data/images/train/21.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>246</xmin>
-			<ymin>210</ymin>
-			<xmax>707</xmax>
-			<ymax>447</ymax>
+			<xmin>283</xmin>
+			<ymin>227</ymin>
+			<xmax>659</xmax>
+			<ymax>424</ymax>
 		</bndbox>
 	</object>
 </annotation>
